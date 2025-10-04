@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yasas Maddumage</h1>
-<h3 align="center">Cybersecurity Enthusiast | DevOps in Progress | Ethical Hacker 🧑‍💻</h3>
+<h3 align="center">Cybersecurity Enthusiast | SOC Analyst  | Ethical Hacker 🧑‍💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Cybersecurity+Student;Bug+Bounty+Hunter;Learning+DevOps+Tools;TryHackMe+Top+1%25;Building+Secure+Pipelines" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Cybersecurity+Student;Bug+Bounty+Hunter;SOC+Analyst;Learning+DevOps+Tools;TryHackMe+Top+1%25;Building+Secure+Pipelines" />
 </p>
 
 ---
